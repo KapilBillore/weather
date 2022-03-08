@@ -3,7 +3,6 @@
   margin: 0;
   padding: 0;
 }
-
 body{
   height: 100vh;
   display: flex;
@@ -17,7 +16,6 @@ body{
 
 
 }
-
 .location, .temperature{
   height: 30vh;
   width: 500px;
@@ -26,7 +24,6 @@ body{
   align-items: center;
 
 }
-
 .temperature{
   flex-direction: column;
 }
@@ -42,3 +39,6 @@ body{
   margin: 10px;
   font-size: 30px;
 }
+
+
+/*# sourceMappingURL=styles.css.map*/
